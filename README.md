@@ -28,10 +28,7 @@ This is a simple **Netflix Clone** built using **HTML** and **CSS**. The project
 3. Open `index.html` in your browser.
 
 
-If your images are inside the repository, use:
-```markdown
-![Alt Text](![Screenshot 2025-03-22 154725.png…]()
-.png)
+
 ```
 
 
