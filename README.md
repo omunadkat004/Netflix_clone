@@ -1,4 +1,4 @@
-# 📺 Netflix Clone
+![Screenshot 2025-03-22 154725](https://github.com/user-attachments/assets/9e0d6f9e-bb53-46fc-bd77-4d0e79b27e17)# 📺 Netflix Clone
 
 
 ## 🎬 Overview
@@ -30,7 +30,8 @@ This is a simple **Netflix Clone** built using **HTML** and **CSS**. The project
 
 If your images are inside the repository, use:
 ```markdown
-![Alt Text](images/screenshot.png)
+![Alt Text](![Screenshot 2025-03-22 154725.png…]()
+.png)
 ```
 
 
