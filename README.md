@@ -1,6 +1,5 @@
 # 📺 Netflix Clone
 
-![Netflix Clone](https://your-image-url-here)
 
 ## 🎬 Overview
 This is a simple **Netflix Clone** built using **HTML** and **CSS**. The project replicates the landing page of Netflix with a responsive and visually appealing UI.
