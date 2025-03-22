@@ -1,4 +1,4 @@
-![Screenshot 2025-03-22 154725](https://github.com/user-attachments/assets/9e0d6f9e-bb53-46fc-bd77-4d0e79b27e17)# 📺 Netflix Clone
+![Screenshot 2025-03-22 154725](https://github.com/omunadkat004/Netflix_clone/blob/main/Screenshot%202025-03-22%20160538.png)# 📺 Netflix Clone
 
 
 ## 🎬 Overview
